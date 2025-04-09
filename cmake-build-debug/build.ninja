@@ -61,6 +61,12 @@ build CMakeFiles/ProyectoBiblioteca.dir/Usuario.cpp.obj: CXX_COMPILER__ProyectoB
   OBJECT_DIR = CMakeFiles\ProyectoBiblioteca.dir
   OBJECT_FILE_DIR = CMakeFiles\ProyectoBiblioteca.dir
 
+build CMakeFiles/ProyectoBiblioteca.dir/Material.cpp.obj: CXX_COMPILER__ProyectoBiblioteca_unscanned_Debug C$:/Users/aleca/Downloads/Progra$ II/ProyectoBiblioteca/Material.cpp || cmake_object_order_depends_target_ProyectoBiblioteca
+  DEP_FILE = CMakeFiles\ProyectoBiblioteca.dir\Material.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ProyectoBiblioteca.dir
+  OBJECT_FILE_DIR = CMakeFiles\ProyectoBiblioteca.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ProyectoBiblioteca
@@ -69,7 +75,7 @@ build CMakeFiles/ProyectoBiblioteca.dir/Usuario.cpp.obj: CXX_COMPILER__ProyectoB
 #############################################
 # Link the executable ProyectoBiblioteca.exe
 
-build ProyectoBiblioteca.exe: CXX_EXECUTABLE_LINKER__ProyectoBiblioteca_Debug CMakeFiles/ProyectoBiblioteca.dir/main.cpp.obj CMakeFiles/ProyectoBiblioteca.dir/Usuario.cpp.obj
+build ProyectoBiblioteca.exe: CXX_EXECUTABLE_LINKER__ProyectoBiblioteca_Debug CMakeFiles/ProyectoBiblioteca.dir/main.cpp.obj CMakeFiles/ProyectoBiblioteca.dir/Usuario.cpp.obj CMakeFiles/ProyectoBiblioteca.dir/Material.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ProyectoBiblioteca.dir

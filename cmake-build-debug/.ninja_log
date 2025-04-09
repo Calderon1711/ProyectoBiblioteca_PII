@@ -1,6 +1,9 @@
 # ninja log v6
 11	742	7659273484113178	CMakeFiles/ProyectoBiblioteca.dir/main.cpp.obj	2d917225bed3c5cb
-561	706	7659267056832203	ProyectoBiblioteca.exe	fae48e99cbf512f6
-4	643	7659274925520269	build.ninja	8cbcea5307c6f38e
-5	606	7659275253958186	CMakeFiles/ProyectoBiblioteca.dir/Usuario.cpp.obj	cd2e96f57a3faf65
 606	1050	7659275259968353	ProyectoBiblioteca.exe	f411da605945f5f2
+4	643	7659281072901707	build.ninja	8cbcea5307c6f38e
+5	606	7659275253958186	CMakeFiles/ProyectoBiblioteca.dir/Usuario.cpp.obj	cd2e96f57a3faf65
+2	276	7659281072901707	build.ninja	8cbcea5307c6f38e
+15	658	7659281073471627	CMakeFiles/ProyectoBiblioteca.dir/Material.cpp.obj	198b734e785352ea
+6	663	7659281073386107	CMakeFiles/ProyectoBiblioteca.dir/main.cpp.obj	2d917225bed3c5cb
+663	828	7659281079955035	ProyectoBiblioteca.exe	84d659d96dc1825d
